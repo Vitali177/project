@@ -31,3 +31,5 @@ console.log(arr[0]);
  }
 
  learnJS("JavaScript", done);
+
+ console.log("TEST");
